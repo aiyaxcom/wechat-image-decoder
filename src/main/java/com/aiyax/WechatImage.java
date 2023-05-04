@@ -19,7 +19,7 @@ public class WechatImage {
 
     public static final String outputDirectory = "C:\\Users\\ZCY007\\Documents\\DecodedWechatImage";
     public static final String inputDirectory = "C:\\Users\\ZCY007\\Documents\\WeChat Files\\wxid_0g8vu6dbi0bt21\\FileStorage\\MsgAttach";
-    public static final String SPECIFIC_PERSON_OR_GROUP = "639f583db08630722d4769511734ba0b"; // 个人或群聊的id，如果为空，则解码所有图片
+    public static final String SPECIFIC_PERSON_OR_GROUP = ""; // 个人或群聊的id，如果为空，则解码所有图片
     public static final String EMPTY = "";
     public static final Map<String, Integer> IMAGE_STATISTICS_GROUP_BY_ID = new HashMap<>();
 
